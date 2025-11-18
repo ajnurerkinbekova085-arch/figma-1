@@ -1,0 +1,27 @@
+
+
+
+ .d-flex{
+display: flex;
+}
+
+.btn{
+    background-color: black;
+    color: aliceblue;
+}
+
+.pgrey{
+     color: grey;
+}
+
+.qwerty{
+    margin-left: 50px;
+}
+
+.pages{
+    color: grey; 
+}
+
+.marginb{
+    margin-bottom: 50px;
+}
